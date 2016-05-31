@@ -92,7 +92,7 @@ enable-researching: true
   cost: 14
   enabled: true
 '24':
-  name: Парашут
+  name: Парашют
   cost: 15
   enabled: true
 '25':
