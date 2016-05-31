@@ -20,7 +20,7 @@ enable-researching: true
   cost: 2
   enabled: true
 '6':
-  name: Крафт Доспехи
+  name: Крафт Доспехов
   cost: 2
   enabled: true
 '8':
