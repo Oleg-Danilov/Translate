@@ -8,7 +8,7 @@ enable-researching: true
   cost: 1
   enabled: true
 '2':
-  name: Печенье Удачи
+  name: Печенье с Предсказанием
   cost: 1
   enabled: true
 '4':
@@ -20,7 +20,7 @@ enable-researching: true
   cost: 2
   enabled: true
 '6':
-  name: Крафт Брони
+  name: Крафт Доспехи
   cost: 2
   enabled: true
 '8':
@@ -32,15 +32,15 @@ enable-researching: true
   cost: 4
   enabled: true
 '7':
-  name: Glowstone Броня
+  name: Светящиеся Каменные Доспехи
   cost: 3
   enabled: true
 '10':
-  name: Эндер Броня
+  name: Эндер Доспехи
   cost: 4
   enabled: true
 '11':
-  name: Волшебный Глаз Эндера
+  name: Волшебное Око Эндера
   cost: 4
   enabled: true
 '12':
@@ -48,15 +48,15 @@ enable-researching: true
   cost: 4
   enabled: true
 '13':
-  name: Мясо Монстра
+  name: Вяленое Мясо Монстра
   cost: 5
   enabled: true
 '14':
-  name: Броня из слизи
+  name: Слизистые Доспехи
   cost: 5
   enabled: true
 '15':
-  name: Sword of Beheading
+  name: Меч Обезглавливания
   cost: 6
   enabled: true
 '16':
@@ -64,7 +64,7 @@ enable-researching: true
   cost: 8
   enabled: true
 '17':
-  name: Расширенное Электричество
+  name: Продвинутое Электричество
   cost: 9
   enabled: true
 '18':
@@ -76,11 +76,11 @@ enable-researching: true
   cost: 11
   enabled: true
 '20':
-  name: Important Power-Related Items
+  name: Важные Силовые Элементы
   cost: 12
   enabled: true
 '21':
-  name: Ваша первая батарея
+  name: Твоя Первая Батарея
   cost: 10
   enabled: true
 '22':
@@ -88,7 +88,7 @@ enable-researching: true
   cost: 14
   enabled: true
 '23':
-  name: Steel Thruster
+  name: Стальной Гребной Винт
   cost: 14
   enabled: true
 '24':
@@ -100,23 +100,23 @@ enable-researching: true
   cost: 15
   enabled: true
 '26':
-  name: Реактивный ранец
+  name: Реактивный Ранец
   cost: 22
   enabled: true
 '27':
-  name: Мульти инструменты
+  name: Мультиинструменты
   cost: 18
   enabled: true
 '28':
-  name: Сила Солнца
+  name: Энергия Солнца
   cost: 17
   enabled: true
 '29':
-  name: Elemental Staves
+  name: Посохи Стихий
   cost: 17
   enabled: true
 '30':
-  name: Измельчить Камень
+  name: Размолоть Камень
   cost: 4
   enabled: true
 '31':
@@ -124,11 +124,11 @@ enable-researching: true
   cost: 5
   enabled: true
 '32':
-  name: Gold Pan
+  name: Золотая Кастрюля
   cost: 5
   enabled: true
 '33':
-  name: Переплет Магической книга
+  name: Магический Книжный Переплет
   cost: 5
   enabled: true
 '34':
@@ -136,7 +136,7 @@ enable-researching: true
   cost: 6
   enabled: true
 '35':
-  name: Ore Doubling
+  name: Удвоение Руды
   cost: 6
   enabled: true
 '36':
@@ -144,7 +144,7 @@ enable-researching: true
   cost: 8
   enabled: true
 '37':
-  name: Расширенные Сплавы
+  name: Продвинутые Сплавы
   cost: 12
   enabled: true
 '38':
@@ -156,7 +156,7 @@ enable-researching: true
   cost: 1
   enabled: true
 '40':
-  name: Gilded Iron Armor
+  name: Позолоченные Железные Доспехи
   cost: 16
   enabled: true
 '41':
@@ -176,375 +176,375 @@ enable-researching: true
   cost: 17
   enabled: true
 '46':
-  name: Damascus Steel Armor
+  name: Дамасские Стальные Доспехи
   cost: 18
   enabled: true
 '47':
-  name: Reinforced Alloy
+  name: Усиленный Сплав
   cost: 22
   enabled: true
 '48':
-  name: Black Diamonds
+  name: Черные Бриллианты
   cost: 26
   enabled: true
 '50':
-  name: Magic Workbench
+  name: Волшебный Верстак
   cost: 12
   enabled: true
 '51':
-  name: Wind Staff
+  name: Посох Ветра
   cost: 17
   enabled: true
 '52':
-  name: Reinforced Armor
+  name: Усиленные Доспехи
   cost: 26
   enabled: true
 '53':
-  name: Ore Washer
+  name: Очиститель Руды
   cost: 5
   enabled: true
 '54':
-  name: Pure Gold
+  name: Чистое Золото
   cost: 7
   enabled: true
 '55':
-  name: Silicon Valley
+  name: Силиконовая Долина
   cost: 12
   enabled: true
 '56':
-  name: Fire Staff
+  name: Посох Огня
   cost: 2
   enabled: true
 '57':
-  name: Smelters Pickaxe
+  name: Плавильни Кирок
   cost: 17
   enabled: true
 '58':
-  name: Common Talisman
+  name: Обычный Талисман
   cost: 14
   enabled: true
 '59':
-  name: Talisman of the Anvil
+  name: Талисман Наковальни
   cost: 18
   enabled: true
 '60':
-  name: Talisman of the Miner
+  name: Талисман Шахтера
   cost: 18
   enabled: true
 '61':
-  name: Talisman of the Hunter
+  name: Талисман Охотника
   cost: 18
   enabled: true
 '62':
-  name: Talisman of the Lava Walker
+  name: Талисман Лавового Ходока
   cost: 18
   enabled: true
 '63':
-  name: Talisman of the Water Breather
+  name: Талисман Водного Дыхания
   cost: 18
   enabled: true
 '64':
-  name: Talisman of the Angel
+  name: Талисман Ангела
   cost: 18
   enabled: true
 '65':
-  name: Talisman of the Firefighter
+  name: Талисман Пожарного
   cost: 18
   enabled: true
 '67':
-  name: Firey Situation
+  name: Пожарная Ситуация
   cost: 14
   enabled: true
 '68':
-  name: Talisman of the Magician
+  name: Талисман Мага
   cost: 20
   enabled: true
 '69':
-  name: Talisman of the Traveller
+  name: Талисман Путешественника
   cost: 20
   enabled: true
 '70':
-  name: Talisman of the Warrior
+  name: Талисман Воина
   cost: 20
   enabled: true
 '71':
-  name: Talisman of the Knight
+  name: Талисман Рыцаря
   cost: 20
   enabled: true
 '72':
-  name: Shiny Iron
+  name: Блестящее Железо
   cost: 11
   enabled: true
 '73':
-  name: Fake Gem
+  name: Поддельный Самоцвет
   cost: 17
   enabled: true
 '74':
-  name: Chainmail Armor
+  name: Кольчужные Доспехи
   cost: 8
   enabled: true
 '75':
-  name: Talisman of the Whirlwind
+  name: Талисман Вихря
   cost: 19
   enabled: true
 '76':
-  name: Talisman of the Wizard
+  name: Талисман Волшебника
   cost: 22
   enabled: true
 '77':
-  name: Lumber Axe
+  name: Лесной Топор
   cost: 21
   enabled: true
 '79':
-  name: Hazmat Suit
+  name: Костюм Химзащиты
   cost: 21
   enabled: true
 '80':
-  name: Radioactive
+  name: Радиоактивный
   cost: 30
   enabled: true
 '81':
-  name: Ore Purification
+  name: Очистка Руды
   cost: 25
   enabled: true
 '84':
-  name: Redstone Alloy
+  name: Редстоун Сплав
   cost: 16
   enabled: true
 '85':
-  name: Top Tier Machines
+  name: Высококласные Станки
   cost: 24
   enabled: true
 '86':
-  name: First Aid
+  name: Первая Помощь
   cost: 2
   enabled: true
 '87':
-  name: Shiny Armor
+  name: Блестящие Доспехи
   cost: 13
   enabled: true
 '89':
-  name: Night Vision Goggles
+  name: Очки Ночного Видения
   cost: 10
   enabled: true
 '90':
-  name: Pickaxe of Containment
+  name: Кирка Сдерживания
   cost: 14
   enabled: true
 '91':
-  name: Hercules Pickaxe
+  name: Кирка Геркулеса
   cost: 28
   enabled: true
 '92':
-  name: Saw Mill
+  name: Лесопилка
   cost: 2
   enabled: true
 '93':
-  name: Slimy Steel Armor
+  name: Слизистые Стальные Доспехи
   cost: 27
   enabled: true
 '94':
-  name: Blade of Vampires
+  name: Лезвие Вампиров
   cost: 26
   enabled: true
 '95':
-  name: Lazy Mining
+  name: Ленивая Добыча
   cost: 40
   enabled: true
 '96':
-  name: Water Staff
+  name: Посох Воды
   cost: 8
   enabled: true
 '97':
-  name: Golden City
+  name: Золотой Город
   cost: 19
   enabled: true
 '98':
-  name: Advanced Mining 101
+  name: Продвинутая добыча 101
   cost: 42
   enabled: true
 '99':
-  name: Composting Dirt
+  name: Компостирование Грязи
   cost: 3
   enabled: true
 '100':
-  name: Farmer Shoes
+  name: Фермерские Башмаки
   cost: 4
   enabled: true
 '101':
-  name: Explosive Pickaxe
+  name: Кирка Взрыва
   cost: 28
   enabled: true
 '102':
-  name: Automated Gold Pan
+  name: Автоматическая Золотая Кастрюля
   cost: 17
   enabled: true
 '103':
-  name: Boots of the Stomper
+  name: Сапоги Топтуна
   cost: 19
   enabled: true
 '104':
-  name: Pickaxe of the Seeker
+  name: Кирка Искателя
   cost: 19
   enabled: true
 '105':
-  name: Backpacks
+  name: Рюкзаки
   cost: 15
   enabled: true
 '106':
-  name: Woven Backpack
+  name: Тканный Рюкзак
   cost: 19
   enabled: true
 '107':
-  name: Crucible
+  name: Тигель
   cost: 13
   enabled: true
 '108':
-  name: Gilded Backpack
+  name: Позолоченный Рюкзак
   cost: 22
   enabled: true
 '110':
-  name: Being a Tank
+  name: Будучи Танком
   cost: 28
   enabled: true
 '111':
-  name: Armored Jetpack
+  name: Бронированный Реактивный Ранец
   cost: 27
   enabled: true
 '112':
-  name: Ender Talismans
+  name: Эндер Талисман
   cost: 28
   enabled: true
 '115':
-  name: Even more Ores
+  name: Еще Больше Руды
   cost: 10
   enabled: true
 '116':
-  name: Magnetic Metals
+  name: Магнитные Металлы
   cost: 16
   enabled: true
 '117':
-  name: Infused Magnets
+  name: Настаивающиеся Магниты
   cost: 18
   enabled: true
 '118':
-  name: Speedy Pickaxe
+  name: Кирка Скорости
   cost: 14
   enabled: true
 '119':
-  name: Necromancy
+  name: Некромантия
   cost: 19
   enabled: true
 '120':
-  name: Soulbound Storage
+  name: Хранилище Связных Душ
   cost: 22
   enabled: true
 '121':
-  name: Jet Boots
+  name: Реактивные Сапоги
   cost: 25
   enabled: true
 '122':
-  name: Armored Jet Boots
+  name: Бронированные Реактивные Сапоги
   cost: 27
   enabled: true
 '123':
-  name: Seismic Axe
+  name: Сейсмический Топор
   cost: 29
   enabled: true
 '124':
-  name: Pickaxe of Vein Mining
+  name: Кирка Добычи из Жил
   cost: 29
   enabled: true
 '125':
-  name: Soulbound Weapons
+  name: Оружие Связных Душ
   cost: 29
   enabled: true
 '126':
-  name: Soulbound Tools
+  name: Инструменты Связных Душ
   cost: 29
   enabled: true
 '127':
-  name: Soulbound Armor
+  name: Доспехи Связных Душ
   cost: 29
   enabled: true
 '129':
-  name: Delicious Drinks
+  name: Вкусная Выпивка
   cost: 29
   enabled: true
 '130':
-  name: Repairing Spawners
+  name: Ремонт Производителей
   cost: 15
   enabled: true
 '131':
-  name: HO HO HO
+  name: ХО-ХО-ХО
   cost: 1
   enabled: true
 '132':
-  name: Enhanced Furnace
+  name: Улучшенная Печь
   cost: 7
   enabled: true
 '133':
-  name: Better Furnaces
+  name: Лучшая Печь
   cost: 18
   enabled: true
 '134':
-  name: High Tier Furnace
+  name: Высококачественная Печь
   cost: 29
   enabled: true
 '135':
-  name: Reinforced Furnace
+  name: Усиленная Печь
   cost: 32
   enabled: true
 '136':
-  name: Carbonado Edged Furnace
+  name: Карбонадо-Окаймленная Печь
   cost: 35
   enabled: true
 '137':
-  name: Heating up
+  name: Нагрев
   cost: 32
   enabled: true
 '138':
-  name: Block Placer
+  name: Россыпные блоки
   cost: 17
   enabled: true
 '139':
-  name: Lazy Panning
+  name: Ленивое Панорамирование
   cost: 29
   enabled: true
 '142':
-  name: Turning things around
+  name: Поворот Вещей Вокруг
   cost: 38
   enabled: true
 '143':
-  name: Robin Hood
+  name: Робин Гуд
   cost: 22
   enabled: true
 '144':
-  name: Sharing with friends
+  name: Поделиться с Друзьями
   cost: 30
   enabled: true
 '145':
-  name: XP Storage
+  name: Хранилище XP
   cost: 13
   enabled: true
 '146':
-  name: Withstanding Explosions
+  name: Выдерживать Взрывы
   cost: 15
   enabled: true
 '148':
-  name: Happy Easter
+  name: Счастливой Пасхи
   cost: 1
   enabled: true
 '149':
-  name: Golden potion
+  name: Золотое Зелье
   cost: 24
   enabled: true
 '150':
-  name: Portable Beverages
+  name: Карманная Выпивка
   cost: 24
   enabled: true
 '151':
-  name: Ancient Altar
+  name: Древний Алтарь
   cost: 15
   enabled: true
 '152':
