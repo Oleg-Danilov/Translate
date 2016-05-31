@@ -552,27 +552,27 @@ enable-researching: true
   cost: 21
   enabled: true
 '154':
-  name: Upgraded Solar Cells
+  name: Продвинутые Солнечные Батареи
   cost: 26
   enabled: true
 '155':
-  name: Elemental Runes
+  name: Руны Стихий
   cost: 15
   enabled: true
 '156':
-  name: Purple Runes
+  name: Фиолетовые Руны
   cost: 18
   enabled: true
 '157':
-  name: Infernal Bonemeal
+  name: Инфернальная Костная Мука
   cost: 12
   enabled: true
 '158':
-  name: Rainbow Blocks
+  name: Радужные Блоки
   cost: 24
   enabled: true
 '159':
-  name: Infused Hopper
+  name: Накапливающийся прыжок
   cost: 22
   enabled: true
 '160':
@@ -580,271 +580,271 @@ enable-researching: true
   cost: 20
   enabled: true
 '161':
-  name: Duct Tape
+  name: Клейкая Лента
   cost: 14
   enabled: true
 '162':
-  name: Plastic
+  name: Пластик
   cost: 25
   enabled: true
 '163':
-  name: Memory Core
+  name: Основная Память
   cost: 28
   enabled: true
 '164':
-  name: Oil
+  name: Масло
   cost: 30
   enabled: true
 '165':
-  name: Fuel
+  name: Топливо
   cost: 30
   enabled: true
 '166':
-  name: Holograms
+  name: Голограммы
   cost: 36
   enabled: true
 '167':
-  name: Tier 1 Capacitors
+  name: Уровень 1 Конденсаторы
   cost: 25
   enabled: true
 '168':
-  name: Tier 2 Capacitors
+  name: Уровень 2 Конденсаторы
   cost: 32
   enabled: true
 '169':
-  name: Solar Power Plant
+  name: Солнечная Электростанция
   cost: 14
   enabled: true
 '170':
-  name: Powered Furnace
+  name: Питание Печи
   cost: 15
   enabled: true
 '171':
-  name: Crushing and Grinding
+  name: Дробление и измельчение
   cost: 20
   enabled: true
 '172':
-  name: Heated Pressure Chamber
+  name: Обогрев Барокамеры
   cost: 22
   enabled: true
 '173':
-  name: Coal Generator
+  name: Угольный Генератор
   cost: 18
   enabled: true
 '174':
-  name: Automatic Enchanting and Disenchanting
+  name: Автоматическое Очарование и Расколдовывание
   cost: 24
   enabled: true
 '175':
-  name: Automatic Anvil
+  name: Автоматическая Наковальня
   cost: 34
   enabled: true
 '176':
-  name: Power Measurement
+  name: Измерение Мощности
   cost: 10
   enabled: true
 '177':
-  name: Basic GPS Setup
+  name: Базовая Установка GPS
   cost: 28
   enabled: true
 '178':
-  name: GPS Emergency Waypoint
+  name: Аварийная Точка GPS
   cost: 30
   enabled: true
 '179':
-  name: Programmable Androids
+  name: Программируемые Роботы
   cost: 50
   enabled: true
 '180':
-  name: Android Interfaces
+  name: Интерфейсы Робота
   cost: 26
   enabled: true
 '181':
-  name: GEO-Scans
+  name: ГЕО-Скан
   cost: 30
   enabled: true
 '182':
-  name: Combustion Reactor
+  name: Реактор Сгорания
   cost: 38
   enabled: true
 '183':
-  name: Teleporter Base Components
+  name: Базовые Компоненты Телепорта
   cost: 42
   enabled: true
 '184':
-  name: Teleporter Activation
+  name: Активация Телепорта
   cost: 36
   enabled: true
 '185':
-  name: Upgraded Solar Generators
+  name: Продвинутые Солнечные Генераторы
   cost: 28
   enabled: true
 '186':
-  name: Upgraded Transmitters
+  name: Продвинутые Передатчики
   cost: 36
   enabled: true
 '187':
-  name: Elevators
+  name: Лифты
   cost: 28
   enabled: true
 '188':
-  name: Full-Time Solar Power
+  name: Постоянная Солнечная Энергия
   cost: 44
   enabled: true
 '189':
-  name: Top Tier Transmitter
+  name: Высококачественный Передатчик
   cost: 44
   enabled: true
 '190':
-  name: Energy Networks 101
+  name: Энергетические Сети 101
   cost: 6
   enabled: true
 '191':
-  name: Butcher Androids
+  name: Роботы-Мясники
   cost: 32
   enabled: true
 '192':
-  name: Organic Food
+  name: Органическая Еда
   cost: 25
   enabled: true
 '193':
-  name: Automated Feeding
+  name: Автоматическое Подача Еды
   cost: 25
   enabled: true
 '194':
-  name: Advanced Androids
+  name: Продвинутые Роботы
   cost: 60
   enabled: true
 '195':
-  name: Advanced Androids - Butcher
+  name: Продвинутые Роботы - Мясник
   cost: 30
   enabled: true
 '196':
-  name: Advanced Androids - Fisherman
+  name: Продвинутые Роботы - Рыбак
   cost: 30
   enabled: true
 '197':
-  name: Animal Growth Manipulation
+  name: Управление Ростом Животного
   cost: 32
   enabled: true
 '198':
-  name: Exp Collector
+  name: Коллекционер Exp
   cost: 36
   enabled: true
 '199':
-  name: Organic Fertilizer
+  name: Органическое Удобрение
   cost: 36
   enabled: true
 '200':
-  name: Crop Growth Acceleration
+  name: Ускорение Роста Растений
   cost: 40
   enabled: true
 '201':
-  name: Upgraded Crop Growth Accelerator
+  name: Продвинутый Ускоритель Роста Растений
   cost: 44
   enabled: true
 '202':
-  name: Reactor Essentials
+  name: Основы Реактора
   cost: 36
   enabled: true
 '203':
-  name: Nuclear Power Plant
+  name: Атомная Электростанция
   cost: 48
   enabled: true
 '204':
-  name: Mr Freeze
+  name: Мистер Фриз
   cost: 20
   enabled: true
 '205':
-  name: Cargo Basics
+  name: Основы Груза
   cost: 30
   enabled: true
 '206':
-  name: Cargo Setup
+  name: Установка Груза
   cost: 30
   enabled: true
 '207':
-  name: Electric Ingot Fabrication
+  name: Изготовление Электрических Слитков
   cost: 18
   enabled: true
 '208':
-  name: Faster Ingot Fabrication
+  name: Быстрое Изготовление Слитка
   cost: 26
   enabled: true
 '209':
-  name: Super Fast Ingot Fabrication
+  name: Супер Быстрое Изготовление Слитка
   cost: 32
   enabled: true
 '210':
-  name: Automated Crafting
+  name: Автоматизированный Крафтинг
   cost: 20
   enabled: true
 '211':
-  name: Upgraded Food Fabrication
+  name: Продвинутое Изготовление Еды
   cost: 28
   enabled: true
 '212':
-  name: Reactor Interaction
+  name: Взаимодействие Реактора
   cost: 18
   enabled: true
 '213':
-  name: Fluid Pump
+  name: Насос для Жидкостей
   cost: 28
   enabled: true
 '214':
-  name: Upgraded Freezer
+  name: Продвинутый Морозильник
   cost: 29
   enabled: true
 '215':
-  name: Never-Ending Circle
+  name: Бесконечный Круг
   cost: 30
   enabled: true
 '216':
-  name: Trash
+  name: Хлам
   cost: 8
   enabled: true
 '217':
-  name: Advanced Output Node
+  name: Продвинутый Выходной Узел
   cost: 24
   enabled: true
 '218':
-  name: Carbon Press
+  name: Карбоновый Пресс
   cost: 28
   enabled: true
 '219':
-  name: Electric Smeltery
+  name: Электрические Наплавки
   cost: 28
   enabled: true
 '220':
-  name: Upgraded Electric Furnace
+  name: Продвинутая Электропечь
   cost: 20
   enabled: true
 '221':
-  name: Upgraded Carbon Press
+  name: Продвинутый Карбоновый Пресс
   cost: 26
   enabled: true
 '222':
-  name: Empowered Androids
+  name: Полномочия Роботов
   cost: 60
   enabled: true
 '223':
-  name: Empowered Androids - Butcher
+  name: Полномочия Роботов - Мясник
   cost: 30
   enabled: true
 '224':
-  name: Empowered Androids - Fisherman
+  name: Полномочия Роботов - Рыбак
   cost: 30
   enabled: true
 '225':
-  name: Ultimate Carbon Press
+  name: Лучший Карбоновый Пресс
   cost: 32
   enabled: true
 '226':
-  name: Automated Wither Killer
+  name: Автоматизированный Уничтожающий Киллер
   cost: 35
   enabled: true
 '227':
-  name: Upgraded Heated Pressure Chamber
+  name: Продвинутый Обогрев Барокамеры
   cost: 20
   enabled: true
 '228':
@@ -852,6 +852,6 @@ enable-researching: true
   cost: 20
   enabled: true
 '229':
-  name: Special Elytras
+  name: Специальный Elytras
   cost: 30
   enabled: true
